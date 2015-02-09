@@ -24,3 +24,8 @@ plot(dataOk[,"TimeDate"],dataOk[,"Global_reactive_power"],type='l',xlab = "datet
 
 dev.copy(png, file = "plot4.png") ## Copy my plot to a PNG file 
 dev.off() ## Don't forget to close the PNG device!
+
+
+    
+    
+    

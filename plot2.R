@@ -13,4 +13,3 @@ plot(dataOk[,"TimeDate"],dataOk[,"Global_active_power"],type='l',xlab = "",ylab 
 dev.copy(png, file = "plot2.png") ## Copy my plot to a PNG file 
 dev.off() ## Don't forget to close the PNG device!
 
-
